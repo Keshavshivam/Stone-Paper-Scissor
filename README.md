@@ -1,1 +1,1 @@
-# Stone-Paper-Scissorhttps://keshavshivam.github.io/My_Portfolio/
+# Stone-Papper deployment https://github.com/Keshavshivam/Stone-Paper-Scissor.git
